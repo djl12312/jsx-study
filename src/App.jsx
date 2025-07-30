@@ -1,12 +1,12 @@
-import "./App.css."
+import "./App.css"
 
 const App = () => {
   return (
     <>
       <div className="card">
         <img src="./Dog.jpg" alt="avatar" />
-        <h2>h662</h2>
-        <h2>Programmer</h2>
+        <h2>lion</h2>
+        <h2>student</h2>
       </div>
     </>
   );
